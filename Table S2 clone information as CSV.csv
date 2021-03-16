@@ -1,0 +1,132 @@
+﻿Clone ID,Country,Region,Year collected,Crop,DNAseq ID,,,,Resisitance mutation/modification,,,,,,,
+,,,,,,Ins. size,Coverage,% Aligned,nAChR,VGSC,,AChE2,GABA ,CYP6CY3,CYP6CY3 amplification breakpoint,
+,,,,,,,,,R81,M918,L1014,S431,A302,T74,,
+1,UK,Worcestershire,1982,Chrysanthemum,S1_LIB35709,378,39.0X,96.80%,,,F*,,G,,,NA
+2,France,,2003,Peach,S2_LIB35710,346,33.0X,96.80%,,T*,F*,,,I*,Yes,NA
+3,UK,Cheshire,2004,OSR,S3_LIB35711,397,34.0X,97.00%,,L,,F*,G,I,Yes,NA
+4,Spain,Spain,2010,Peach,S4_LIB35712,384,42.0X,95.40%,T,L*,,,,I*,Yes,NA
+5,France,,2009,Peach,S5_LIB35713,373,37.0X,96.50%,T*,T/L,F,,,I*,Yes,NA
+6,UK,Worcestershire,2012,Peach(GH),S6_LIB35714,389,41.0X,97.50%,,T/L,F,F*,,I,Yes,NA
+7,Italy,"EMILIA ROMAGNA, Piacenza",1996,Tomato,S7_LIB35715,392,43.0X,96.60%,,,F,,G,I,Yes,NA
+8,Italy,"ABRUZZO, S. Salvo",2012,Peach,S8_LIB35716,410,43.0X,96.50%,,,,F,,I*,Yes,NA
+9,Italy,"EMILIA ROMAGNA, Forlì",2012,Peach,S9_LIB35717,387,45.0X,96.00%,,,,F,,I*,Yes,NA
+10,UK,Worcestershire,1982,Chrysanthemum,S10_LIB35718,384,56.0X,96.10%,,,F*,,G,I,Yes,NA
+11,UK,"Penryn, Cornwall",2018,Cabbage,S11_LIB35719,357,44.0X,95.60%,,T*,F*,,,I*,Yes,NA
+12,Italy,Cerveteri (RM) Lazio AZ. Gelune - Via Aurelia ,2018,Peach,S12_LIB35720,399,49.0X,95.50%,T*,T,F,,,I*,Yes,NA
+13,Italy,AZ Tomaselli Canosa si Pugena contrada Pantanella Zezza 76012 Canosa di Puglia Barletta Andria Trani,2018,Peach,S13_LIB35721,404,53.0X,95.50%,,T/L,F,F,,I,Yes,NA
+14,Italy,AZ Zanolidavide Spinazzino,2018,Nectarine,S14_LIB35722,383,48.0X,97.10%,,T/L,F,F,,I*,Yes,NA
+15,Italy,44048 Argenta Ferrara Via Peglion 11 40128 Bologna,2018,Peach,S15_LIB35723,390,51.0X,96.00%,,T/L,F,F*,,I*,Yes,NA
+16,Spain,Murcia Finca la Tinaja 30520 Jumilla,2018,Peach,S16_LIB35724,395,44.0X,96.80%,T*,T,,,,I*,Yes,NA
+17,Spain,Zaragoza LaArmunia Dua Gordine 50009 Zaragoza (Saragossa),2018,Nectarine,S17_LIB35725,358,37.0X,97.10%,T*,T*,,,,I*,Yes,NA
+18,France,69390 Millery Vernaison nahe Lyon,2018,Peach,S18_LIB35726,396,38.0X,96.60%,T,T,F,,,I*,Yes,NA
+19,France,69440 Saint Laurent-d'Agny Saint-Didiere-sous-Riverie Lyon,2018,Peach,S19_LIB35727,402,38.0X,96.70%,T,T,F,,,I*,Yes,NA
+20,Australia,"Queensland, Bowen",2014,Vegetables,S20_LIB35728,383,42.0X,96.50%,,L,,F,,I*,Yes,NA
+21,France,Vendeuvre DU 86380 Poitou,2015,OSR,S21_LIB35729,386,47.0X,97.50%,,L,,F,,,,NA
+22,Netherlands,Teegrow,2015,unknown,S22_LIB35730,409,44.0X,96.60%,,L,,F,,I,Yes,NA
+23,Greece,Meliki,2016,Peach,S23_LIB35731,407,39.0X,96.90%,,L,,F,,I,Yes,NA
+24,Australia,,2003,Broccoli,S24_LIB35732,418,44.0X,95.20%,,,F*,,,,,NA
+25,UK,,2004,Brussel Sprout,S25_LIB35733,374,29.0X,96.30%,,I_ata,F,,,I,Yes,NA
+26,UK,,1998,OSR,S26_LIB35734,359,48.0X,93.50%,,,F,,,,,NA
+27,UK,,2012,OSR,S27_LIB35735,397,37.0X,95.90%,,L,,F,,,,NA
+28,UK,,2007,Pepper,S28_LIB35736,382,41.0X,96.90%,,,F,F,G,,,NA
+29,UK,Aberdeenshire,2015,Potato,S29_LIB35737,395,40.0X,96.40%,,,F,,G,I,Yes,NA
+30,UK,,1997,Brussel Sprout,S30_LIB35738,420,53.0X,96.70%,,,,,,,,NA
+31,Greece,,1999,Tobacco,S31_LIB35739,342,52.0X,93.70%,,,,F,G,I*,Yes,NA
+32,Italy,"Toscana, Pisa",1996,unknown,S32_LIB35740,410,51.0X,96.30%,,,,,,,,NA
+33,Italy,"EMILIA ROMAGNA, Piacenza - loc. S.Lazzaro Alberoni",1996,Tomato,S33_LIB35741,397,38.0X,94.20%,,,F,,,I,Yes,NA
+34,Italy,"CAMPANIA, Benevento",1999,Tobacco,S34_LIB35742,360,39.0X,96.50%,,,,,,I*,Yes,NA
+35,Italy,"CAMPANIA, Scafati",1999,Tobacco,S35_LIB35743,369,36.0X,93.50%,,,,,,I*,Yes,NA
+36,Italy,"ABRUZZO, Lanciano",1999,Tobacco,S36_LIB35744,352,39.0X,94.20%,,,,,,I*,Yes,NA
+37,Italy,"EMILIA ROMAGNA, Gossolengo",2015,OSR,S37_LIB35745,341,39.0X,94.50%,,L,,F,,,,NA
+38,Italy,"EMILIA ROMAGNA, Cesena",2016,Tobacco,S38_LIB35746,383,38.0X,96.80%,,,F*,F,,I,Yes,NA
+39,South Korea,,2016,Pepper,S39_LIB35747,382,40.0X,93.80%,,L,,F*,G,I*,Yes,NA
+40,South Korea,,2008,Paprika/Bell pepper,S40_LIB35748,388,50.0X,94.70%,,L,,F,G,I*,Yes,NA
+41,Italy,"ABRUZZO, Paglieta",1999,Tobacco,S41_LIB35749,350,35.0X,95.50%,,,,,,I*,Yes,NA
+42,Australia,"Bundaberg, QLD -24.983 152.304",2017,Pepper,S42_LIB35750,374,48.0X,97.00%,,L,,F,G,I*,Yes,NA
+43,Australia,"Nhill, VIC -36.333 141.65",2017,OSR,S43_LIB35751,385,42.0X,96.50%,,L,,F*,G,I*,Yes,NA
+44,Australia,"Bendigo, VIC -36.565 144.81",2017,Tomato,S44_LIB35752,411,50.0X,96.80%,,L,,F,G,I,Yes,NA
+45,Australia,"Munglinup, WA -33.678 120.804",2018,OSR,S45_LIB35753,376,47.0X,96.50%,,L,,F*,G,I,Yes,NA
+46,Australia,"Pittsworth, QLD -27.717 151.633",2017,Broccoli,S46_LIB35754,343,54.0X,96.70%,,L,,F*,G,I,Yes,NA
+47,Australia,"Mayrung, NSW -35.5 145.351",2017,OSR,S47_LIB35755,372,56.0X,96.70%,,L,,F*,G,I,Yes,NA
+48,Australia,"Penfield, SA -34.697 138.643",2014,eggplant,S48_LIB35756,384,46.0X,97.10%,,L,,F,,I,Yes,NA
+49,Australia,"Virginia, SA -34.65 138.557",2014,Pepper,S49_LIB35757,387,43.0X,94.60%,,L,,F,,I*,Yes,NA
+50,Australia,"Shepparton, VIC",2002,Pepper,S50_LIB35758,370,41.0X,97.00%,,T,F,F,G,I,Yes,NA
+51,Hungary,"Jászfényszaru, Jász-Nagykun-Szolnok",2018,Pepper,S51_LIB35759,390,38.0X,95.90%,,L,,F,G,I*,Yes,NA
+52,Greece,Tyrnavos,2018,Peach,S52_LIB35760,380,47.0X,96.60%,T,,F,,,I*,Yes,NA
+53,Greece,Tyrnavos,2018,Peach,S53_LIB35761,341,37.0X,97.50%,,T/L,F,,,I*,Yes,NA
+54,Greece,Tyrnavos,2018,Peach,S54_LIB35762,383,48.0X,93.50%,,,F,F,,I*,Yes,NA
+55,Greece,Tyrnavos,2018,Peach,S55_LIB35814,387,62.0X,97.50%,T,T/I_ata,F,F,,I*,Yes,NA
+56,Greece,Tyrnavos,2018,Peach,S56_LIB35763,399,40.0X,95.30%,T,T,F*,F*,,I*,Yes,NA
+57,Greece,Tyrnavos,2018,Peach,S57_LIB35764,377,47.0X,96.00%,,,F,,,I*,Yes,NA
+58,Greece,Tyrnavos,2017,Peach,S58_LIB35765,370,46.0X,92.70%,T,T,F,F,,I*,Yes,NA
+59,Greece,Karpochori,2018,Tobacco,S59_LIB35766,393,43.0X,96.00%,,,,F,,I*,Yes,NA
+60,Greece,Karpochori,2018,Tobacco,S60_LIB35767,384,37.0X,96.20%,,T/L,F*,F,,I*,Yes,NA
+61,Greece,Karpochori,2018,Tobacco,S61_LIB35768,396,50.0X,96.30%,,,,F,,I*,Yes,NA
+62,Greece,Alexandria,2018,Peach,S62_LIB35769,379,43.0X,96.10%,T,T,F,,,I*,Yes,NA
+63,Greece,Neo Keramidi,2018,Tobacco,S63_LIB35770,410,44.0X,96.00%,,,,F,,I*,Yes,NA
+64,Greece,Neo Keramidi,2018,Tobacco,S64_LIB35771,408,35.0X,93.50%,,L/I_ata,,F,,I*,Yes,NA
+65,Greece,Platanoulia,2018,Peach,S65_LIB35772,374,48.0X,93.90%,,T,F,,,I*,Yes,NA
+66,Greece,Platanoulia,2018,Peach,S66_LIB35773,383,43.0X,96.20%,,T,F,,,I*,Yes,NA
+67,Greece,Kozani,2017,Peach,S67_LIB35774,411,55.0X,92.50%,T,T,F,F,,I*,Yes,NA
+68,Greece,Lehonia,2017,Peach,S68_LIB35775,402,48.0X,96.20%,,,F*,F*,,I*,Yes,NA
+69,Greece,Naousa,2017,Peach,S69_LIB35776,398,43.0X,91.20%,T,T,F*,,,I*,Yes,NA
+70,Greece,Meliki,2017,Peach,S70_LIB35777,369,37.0X,96.00%,,,,F,,I*,Yes,NA
+71,China,"Ningde City, Fujian Province, China (26.90ºN, 119.46ºE) ",2005,OSR,S71_LIB35778,426,42.0X,93.30%,,L/I_att,F,F,,I,Yes,NA
+72,China,"Ningde City, Fujian Province, China (26.90ºN, 119.46ºE) ",2017,OSR,S72_LIB35779,394,35.0X,94.50%,,L/I_att,F,F,,I,Yes,NA
+73,China,"Yutian County, Tangshan City, Hebei Province, China (39.87ºN, 117.59ºE) ",2016,Peach,S73_LIB35780,365,42.0X,95.60%,,L/I_ata,,F,,I,Yes,NA
+74,US ,"Oxford Tobacco Research Station in Oxford, NC ",2018,Tobacco,S74_LIB35781,399,41.0X,96.50%,,,,,,I*,Yes,NA
+75,US ,"Upper Coastal Plain research station in Rocky Mount, NC",2015,Tobacco,S75_LIB35782,379,55.0X,94.10%,,,,,,I*,Yes,NA
+76,South Korea,,2005,Pepper,S76_LIB35783,393,35.0X,90.40%,,L,,F*,,I*,Yes,NA
+77,Spain,"Balsapintada, Murcia",unknown,Pepper,S77_LIB35784,376,38.0X,90.70%,,L,,,,I,Yes,NA
+78,Spain,"Albesa, Lerida",unknown,Peach,S78_LIB35785,376,38.0X,93.80%,T,L*,,,,I*,Yes,NA
+79,Spain,"Bell-Lloc, Lerida",unknown,Peach,S79_LIB35786,417,38.0X,92.90%,T,L*,,,,I*,Yes,NA
+80,Spain,"Albesa, Lerida",unknown,Peach,S80_LIB35787,398,40.0X,94.70%,,L*,,,,I*,Yes,NA
+81,Spain,"Bell-Lloc, Lerida",unknown,Peach,S81_LIB35788,395,53.0X,95.50%,,L*,,,,I*,Yes,NA
+82,South Korea,"Gyeongju, North Gyeongsang Province ",unknown,Cabbage,S82_LIB35789,366,39.0X,95.90%,,,,,G*,,,NA
+83,Chile,"Talca, San Clemente: 35°28'42.49''S, 71°33'11.85''W",2018,Potato,S83_LIB35790,372,57.0X,96.30%,,,,,,,,NA
+84,Chile,"Talca, Duao: 35°33'27.52''S,71°35'17.51''W",2018,Peach,S84_LIB35791,378,54.0X,96.60%,,T,F,,,I,Yes,NA
+85,Chile,"Talca, Duao: 35°33'27.52''S,71°35'17.51''W",2018,Peach,S85_LIB35792,379,45.0X,97.00%,,T,F,,,I,Yes,NA
+86,Chile,"Talca, Duao: 35°33'27.52''S,71°35'17.51''W",2018,Peach,S86_LIB35793,368,38.0X,94.60%,,T,F*,,,I*,Yes,NA
+87,Chile,"Talca, Duao: 35°33'27.52''S,71°35'17.51''W",2018,Peach,S87_LIB35794,411,46.0X,96.20%,,T,F,F,,I,Yes,NA
+88,Chile,"Talca, Duao: 35°33'27.52''S,71°35'17.51''W",2018,Peach,S88_LIB35795,388,42.0X,96.80%,,T,F,,,I,Yes,NA
+89,China,,2012,Tobacco,S89_LIB35796,362,37.0X,95.70%,,L/I_att,,F,,I*,Yes,NA
+90,China,,2012,Tobacco,S90_LIB35797,378,48.0X,96.80%,,L/I_att,F,F*,,I*,Yes,NA
+91,China,"Baoshan County, Shuangyashan City, Heilongjiang Province",2012,Tobacco,S91_LIB35798,345,39.0X,87.40%,,,,F,,I*,Yes,NA
+92,China,"Yunxi County, Shiyan City, Hubei Province",2012,Tobacco,S92_LIB35799,367,48.0X,94.10%,,,F,F,,I*,Yes,NA
+93,China,"Yunxi County, Shiyan City, Hubei Province",2012,Tobacco,S93_LIB35800,376,37.0X,97.50%,,,,F,,I*,Yes,NA
+94,China,Yunnan Province,2012,Tobacco,S94_LIB35801,386,35.0X,93.50%,,,,F,,I*,Yes,NA
+95,Tunisia,Cap bon,2018,Potato,S95_LIB35802,268,13.0X,95.40%,,T,F,,,,,NA
+96,Tunisia,Kebili,2018,Potato,S96_LIB35803,340,19.0X,66.70%,,L,,F,,I,Yes,NA
+97,Tunisia,Cap bon,2018,Peach,S97_LIB35804,349,30.0X,99.20%,,I_ata,F,F,,I,Yes,NA
+98,Tunisia,Kairouan,2018,Peach,S98_LIB35805,258,9.0X,98.50%,,I_ata,F*,,,I,Yes,NA
+99,Tunisia,Kairouan,2018,Peach,S99_LIB35806,252,13.0X,93.00%,,,F,,,I,Yes,NA
+100,Algeria,Tlemcen,2018,Peach,S100_LIB35807,320,22.0X,98.10%,,I_ata,F,F,,,,NA
+101,Algeria,Tlemcen,2018,Peach,S101_LIB35808,411,24.0X,92.00%,,T/I_ata,F,,,I,Yes,NA
+102,Belarus,Minsk,2018,Asparagus sp,S102_LIB35809,367,39.0X,97.40%,,T,F,F,,I*,Yes,NA
+103,Belarus,Minsk,2018,cabbage,S103_LIB35810,403,43.0X,94.80%,,T/L,F,F,,I,Yes,NA
+104,Armenia,,unknown,Bougainvillea,S104_LIB35811,407,33.0X,90.40%,,T,F,F,,I*,Yes,NA
+105,UK,Scotland,2000,Potato,S105_LIB15045,477,28.0X,91.80%,,,,,,,,NA
+106,Greece,,2007,Tobacco,S106_LIB15046,470,35.0X,93.90%,,,,F,,I*,Yes,NA
+107,Germany,,1967,unknown weed,S107_LIB18338,546,37.0X,95.30%,,,,,,,,NA
+108,UK,,2000,OSR,S108_LIB18339,558,31.0X,95.10%,,,,,,,,NA
+109,UK ,,1974,Sugar beet,S109_LIB18340,561,30.0X,94.60%,,,,,,,,NA
+110,Italy,"CALABRIA, Lamezia Terme",unknown,Potato,S110_LIB18341,542,16.0X,90.80%,,,,,,,,NA
+111,Zimbabwe,,2010,Tobacco,S111_LIB18343,513,36.0X,94.20%,,,,,,I,Yes,NA
+112,Greece,,1990,Tobacco,S112_LIB18344,505,36.0X,93.60%,,,,F,G,I,Yes,NA
+113,Japan,,1983,Eggplant,S113_LIB18345,533,30.0X,93.00%,,I_ata,F,,,I*,Yes,NA
+114,Italy,"ABRUZZO, Colle Corvino",2013,Tobacco,S114_LIB18346,484,35.0X,95.20%,,,,,,I,Yes,NA
+115,Italy,"CAMPANIA, Salerno",2012,Tobacco ,S115_LIB18347,543,29.0X,92.90%,,,,F,,I,Yes,NA
+116,Italy,Tuscany,1996,Peach,S116_LIB19367,569,123.0X,95.50%,,,,,,,,NA
+117,Zimbabwe,,2010,Tobacco,S117_LIB19368,547,47.0X,95.40%,,,,,,I*,Yes,NA
+118,UK,Lincs,1997,Brussel sprout,S118_LIB34497,254,19X,95.50%,,T,F,,G,,Yes,NA
+119,Italy,"EMILIA ROMAGNA, Ravenna",1998,Peach,S119_LIB34498,239,30X,95.80%,,T,F,,,,,NA
+120,Italy,"EMILIA ROMAGNA, Ravenna",1999,Peach,S120_LIB34499,244,26X,95.30%,,T,F,,,I,Yes,NA
+121,Italy,"VENETO, Dossobuono",2003,Peach,S121_LIB34500,239,30X,96.40%,,T,F,,,I,Yes,NA
+122,Italy,"EMILIA ROMAGNA, Cesena",unknown,Peach,S122_LIB34501,228,14X,93.70%,,T*,F*,,,I*,Yes,NA
+123,Italy,,2011,Nectarine,S123_LIB34502,239,13X,95.10%,T*,T*,F*,,,I*,Yes,NA
+124,Greece,,2007,Tobacco,S124_LIB34503,233,22X,96.30%,,,,F,,I*,Yes,NA
+125,Italy,,1978,Peach,S125_LIB34504,223,18X,96.10%,,,F*,,G,,,NA
+126,US ,"Ithaca, New York",2003,Tobacco,HFH5FBCX2_MP-DNAillumina,330,135.0X,93.60%,,,,,,I*,Yes,NA
+127,UK,,2007,Potato,Clone O,338,57X,89.00%,,,,,,I*,,NA
+SRR3466613,US ,"Geneva, New York",2003,Pepper,SRR3466613,,,,,T/I,,,,,,NA
+,,,,,,,,,,,,,,,,
