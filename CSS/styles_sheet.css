@@ -74,6 +74,22 @@ body {
   min-width: 400px;
 }
 
+.clone_panel_link {
+  background-color: rgba(225,230,255, 0.75);
+  padding: 20px;
+  border-radius: 5%;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 0.2rem;
+  color: #00334e;
+  font-style: Montserrat, sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  overflow-y:scroll;
+  margin: 20px;
+  min-width: 400px;
+}
+
 .caption {
   height: 100px;
   overflow-y: scroll;
@@ -91,6 +107,10 @@ body {
 
 .circular {
   border-radius: 8%;
+}
+
+.central {
+  text-align: center !important;
 }
 
 .contact_form {
